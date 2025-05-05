@@ -1,7 +1,5 @@
 # Multi-Modal-RAG-System
 
-# 🧠 Multi-Modal RAG System
-
 A Streamlit-based application that performs **Retrieval-Augmented Generation (RAG)** across multiple file types — including documents, images, and audio/video — using LangChain, OpenAI, Hugging Face, and Whisper.
 
 ---
