@@ -37,13 +37,3 @@ Due to high memory requirements for `torch` and `whisper`, the public demo is ho
 
 ---
 
-## 📁 Folder Structure
-
-```plaintext
-Multi-Modal-RAG-System/
-│
-├── app.py                      # Streamlit main app
-├── requirements.txt            # Python dependencies
-├── .env                        # API keys (not included)
-├── .gitignore
-└── utils/                      # Helper functions (optional)
