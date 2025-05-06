@@ -32,7 +32,7 @@ A Streamlit-based application that performs **Retrieval-Augmented Generation (RA
 👉 **[Launch App on Streamlit Cloud](https://multi-modal-rag-system-rtqnyt7kj7ha8tgkv5fqhm.streamlit.app/)**
 
 📌 **Note:**  
-This project is deployed on **Azure Web App** (as mentioned in resume).  
+This project is deployed on **Azure Web App**.  
 Due to high memory requirements for `torch` and `whisper`, the public demo is hosted on **Streamlit Cloud** for stability.
 
 ---
