@@ -4,7 +4,7 @@ python-docx
 openai
 langchain
 langchain-community
-faiss-cpu
+#faiss-cpu
 git+https://github.com/openai/whisper.git
 torch
 pytesseract
