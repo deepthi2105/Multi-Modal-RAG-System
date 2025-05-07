@@ -12,6 +12,9 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain.docstore.document import Document
 from openai import AzureOpenAI
+import torch
+if hasattr(torch, "classes"):
+    del torch.classes
 
 load_dotenv()
 client = AzureOpenAI(
